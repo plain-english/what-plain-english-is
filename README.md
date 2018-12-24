@@ -1,2 +1,4 @@
 # what-plain-english-is
-The motivation of the project
+The motivation of this project
+
+https://en.wikipedia.org/wiki/Plain_English
